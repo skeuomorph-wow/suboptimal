@@ -1,0 +1,2 @@
+# suboptimal
+Suboptimal Guild documents.
