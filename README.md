@@ -59,11 +59,11 @@ When separate, tanks go in on warlocks. Twoteez runs into techs and starts AE an
 Ranged starts on techs at 3 AE. Melee on warlocks immediately.
 
 Tanks:
-Mints: Warlock 1 ( :skull: )
-Skeu: Warlock 2 (:x: )
-Bebu: Overseer ( :star: )
-Maddimar: Spellbinder 1 ( :crescent_moon: )
-Glad: Spellbinder 2 ( :blue_square: )
+* Mints: Warlock 1 ( :skull: )
+* Skeu: Warlock 2 (:x: )
+* Bebu: Overseer ( :blue_square: )
+* Maddimar: Spellbinder 1 ( :crescent_moon: )
+* Glad: Spellbinder 2 ( :star: )
 
 ## Firemaw
 
