@@ -18,9 +18,9 @@ _____________________________
 ```
 
 ### Phase 2
-Skeu breaks last egg
-Mints OT and should get threat on conflag
-Position facing away from casters, casters under columns
+* Skeu breaks last egg
+* Mints OT and should get threat on conflag
+* Positioned facing into the orb spot, casters don't have to move from the center, just spread out.
 
 ## Vael
 
