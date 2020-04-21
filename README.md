@@ -35,11 +35,12 @@ Melee to other side. Don't go past Mints, LIP if you have to.
 Mathelot distracting shot on captain, pull to Vael room. Maybegay and Coldstew spam hibernate on Wyrmkin.
 
 Tanks:
-* Mints: Warlock 1 ( :skull: )
-* Skeu: Warlock 2 (:x: )
-* Bebu: Overseer ( :star: )
-* Maddimar: Spellbinder 1 ( :crescent_moon: )
-* Glad: Spellbinder 2 ( :blue_square: )
+* Mints: Seether 1 ( :skull: )
+* Skeu: Seether 2 or Flamescale 2 (:x: )
+* Bebu: Flamescale 1 ( :blue_square: )
+* Glad: Wyrmkin 2 or Flamescale 2 ( :crescent_moon: )
+* Maddimar: Wyrmkin 1 ( :star: ) 
+
 
 ## Broodlord
 Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away. Bebu also building threat. Position in corner. OTs just to the side, try to get cleaved but not parried.
