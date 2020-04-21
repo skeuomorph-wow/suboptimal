@@ -78,6 +78,8 @@ Mints will pull, back him in, and then run through to flip, so boss is facing in
 
 ![](https://user-images.githubusercontent.com/64050515/79832084-81236880-835d-11ea-80fc-7e8d6b043873.jpg)
 
+[Video](https://clips.twitch.tv/HungryBenevolentBaboonYouDontSay)
+
 Skeu will taunt 6-8 seconds before wing buffet hits.
 If Skeu is resisted Bebu will taunt. If that's resisted, Skeu will AOE, then Bebu AOE (that'd be wild).
 
