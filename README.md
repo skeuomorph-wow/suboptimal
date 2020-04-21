@@ -78,6 +78,17 @@ Mints will pull, back him in, and then run through to flip, so boss is facing in
 
 ![](https://user-images.githubusercontent.com/64050515/79832084-81236880-835d-11ea-80fc-7e8d6b043873.jpg)
 
+Skeu will taunt 6-8 seconds before wing buffet hits.
+If Skeu is resisted Bebu will taunt. If that's resisted, Skeu will AOE, then Bebu AOE (that'd be wild).
+
+Once one tank has aggro, pre wing buffet, the other should try and leave.
+Firemaw will most likely shadowflame the OT before wing buffeting, so only hitting one is preferred.
+
+After wing buffet firemaw should return to MT without issue.
+MT can taunt if needed.
+
+DPS watch your stacks and heal yourself.
+
 ## Wyrmguard Packs
 
 2 tanks on skull, one on others, with two tanks playing goalie for ranged/healers. Goalie runs and taunts loose mob back to tank and resets.
