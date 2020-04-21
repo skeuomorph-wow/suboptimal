@@ -39,8 +39,8 @@ Tanks:
 * Mints: Seether 1 ( :skull: )
 * Skeu: Seether 2 or Flamescale 2 ( :x: )
 * Bebu: Flamescale 1 ( :blue_square: )
-* Glad: Wyrmkin 2 or Flamescale 2 ( :crescent_moon: )
-* Maddimar: Wyrmkin 1 ( :star: ) 
+* Glad: Wyrmkin 2 or Flamescale 2 ( :star: )
+* Maddimar: Wyrmkin 1 ( :crescent_moon: ) 
 
 
 ## Broodlord
