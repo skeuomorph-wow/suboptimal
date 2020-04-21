@@ -71,7 +71,13 @@ Diagram of new spot, assignments, manage stacks call out
 
 ## Wyrmguard Packs
 
-2 tanks on skull, one on others, with two tanks playing goalie for ranged/healers.
+2 tanks on skull, one on others, with two tanks playing goalie for ranged/healers. Goalie runs and taunts loose mob back to tank and resets.
+
+* Mints: ( :skull: )
+* Skeu: (:x: )
+* Bebu: ( :blue_square: )
+* Maddimar: ( :skull: )
+* Glad: Goalie, hanging out with ranged.
 
 Shot caller to call out spins and redirect melee. Can also call vulnerability
 
