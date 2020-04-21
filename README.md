@@ -1,5 +1,6 @@
 # BWL Raid Info
 
+* TOC
 {:toc}
 
 ## Razorgore
