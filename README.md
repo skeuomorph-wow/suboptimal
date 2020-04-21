@@ -71,7 +71,12 @@ Tanks:
 
 ## Firemaw
 
-Diagram of new spot, assignments, manage stacks call out
+Trying a new strategy to help prevent damage go healers and cut out tank swaps.
+Old strategy was "gate", new strategy is "doorway".
+
+Mints will pull, back him in, and then run through to flip, so boss is facing into lab.
+
+![](https://user-images.githubusercontent.com/64050515/79832084-81236880-835d-11ea-80fc-7e8d6b043873.jpg)
 
 ## Wyrmguard Packs
 
