@@ -52,7 +52,7 @@ Bebu applies demo shout (TODO note: not you mints for faster threat?). No CoR if
 
 TODO Note: are we still doing in and out on blast wave or nah?
 
-## Lab Packs (in progress)
+## Lab Packs
 
 Mathelot distracting techies, mcroy and cheefan each take a warlock.
 
@@ -85,7 +85,7 @@ Diagram of new spot, assignments, manage stacks call out
 
 Shot caller to call out spins and redirect melee. Can also call vulnerability
 
-## other drakes?
+## Other Drakes
 
 Mints MT, Skeu/Bebu OT. Ebonroc, taunt on Shadow of Ebonroc. Flamegor, pre-taunt wing buffet.
 
