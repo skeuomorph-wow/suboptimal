@@ -37,7 +37,7 @@ Mathelot distracting shot on captain, pull to Vael room. Maybegay and Coldstew s
 
 Tanks:
 * Mints: Seether 1 ( :skull: )
-* Skeu: Seether 2 or Flamescale 2 (:x: )
+* Skeu: Seether 2 or Flamescale 2 ( :x: )
 * Bebu: Flamescale 1 ( :blue_square: )
 * Glad: Wyrmkin 2 or Flamescale 2 ( :crescent_moon: )
 * Maddimar: Wyrmkin 1 ( :star: ) 
@@ -48,13 +48,13 @@ Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away
 
 Raid takes down any remaining whelps, then positions by doorway. 
 
-Bebu applies demo shout (TODO note: not you mints for faster threat?). No CoR if tanks don't have wbuffs.
+Bebu applies demo shout. No CoR if tanks don't have wbuffs.
 
 TODO Note: are we still doing in and out on blast wave or nah?
 
 ## Lab Packs
 
-Mathelot distracting techies, mcroy and cheefan each take a warlock.
+Mathelot distracting techies, Cheefan ( :skull:) and Babu ( :x: ) each take a warlock.
 
 LoS as much as possible, goal is to separate warlocks from techs
 
@@ -64,7 +64,7 @@ Ranged starts on techs at 3 AE. Melee on warlocks immediately.
 
 Tanks:
 * Mints: Warlock 1 ( :skull: )
-* Skeu: Warlock 2 (:x: )
+* Skeu: Warlock 2 ( :x: )
 * Bebu: Overseer ( :blue_square: )
 * Maddimar: Spellbinder 1 ( :crescent_moon: )
 * Glad: Spellbinder 2 ( :star: )
@@ -78,7 +78,7 @@ Diagram of new spot, assignments, manage stacks call out
 2 tanks on skull, one on others, with two tanks playing goalie for ranged/healers. Goalie runs and taunts loose mob back to tank and resets.
 
 * Mints: ( :skull: )
-* Skeu: (:x: )
+* Skeu: ( :x: )
 * Bebu: ( :blue_square: )
 * Maddimar: ( :skull: )
 * Glad: Goalie, hanging out with ranged.
