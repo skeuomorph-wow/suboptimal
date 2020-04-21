@@ -1,5 +1,7 @@
 # BWL Raid Info
 
+{:toc}
+
 ## Razorgore
 
 ### Phase 1
