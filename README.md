@@ -1,37 +1,105 @@
-## Welcome to GitHub Pages
+------------- **Razorgore** -------------
 
-You can use the [editor on GitHub](https://github.com/skeuomorph-wow/suboptimal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Phase 1**
+Orb:
+Mathelot runs orb with Tubguy as backup
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Positions:
+```
+_____________________________
+| Mints       | Bebu        |
+|             |             |
+|Orb__________|_____________|
+| Skeu        | Maddimar    |
+|             |             |
+|____________door___________|
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Phase 2**
+Skeu breaks last egg
+Mints OT and should get threat on conflag
+Position facing away from casters, casters under columns
 
-### Jekyll Themes
+------------- **Vael** -------------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skeuomorph-wow/suboptimal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mints MT, planning for only tank. (W1 Skeu will build 2nd threat).
 
-### Support or Contact
+Melee to other side. Don't go past Mints, LIP if you have to.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+------------- **Dragonkin Packs** -------------
+
+Mathelot distracting shot on captain, pull to Vael room. Maybegay and Coldstew spam hibernate on Wyrmkin.
+
+Tanks:
+Mints: Warlock 1 ( :skull: )
+Skeu: Warlock 2 (:x: )
+Bebu: Overseer ( :star: )
+Maddimar: Spellbinder 1 ( :crescent_moon: )
+Glad: Spellbinder 2 ( :blue_square: )
+
+------------- **Broodlord** -------------
+Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away. Bebu also building threat. Position in corner. OTs just to the side, try to get cleaved but not parried.
+
+Raid takes down any remaining whelps, then positions by doorway. 
+
+Bebu applies demo shout (TODO note: not you mints for faster threat?). No CoR if tanks don't have wbuffs.
+
+TODO Note: are we still doing in and out on blast wave or nah?
+
+------------- **Lab Packs (in progress)** -------------
+
+Mathelot distracting techies, mcroy and cheefan each take a warlock.
+
+LoS as much as possible, goal is to separate warlocks from techs
+
+When separate, tanks go in on warlocks. Twoteez runs into techs and starts AE and running in a circle.
+
+Ranged starts on techs at 3 AE. Melee on warlocks immediately.
+
+Tanks:
+Mints: Warlock 1 ( :skull: )
+Skeu: Warlock 2 (:x: )
+Bebu: Overseer ( :star: )
+Maddimar: Spellbinder 1 ( :crescent_moon: )
+Glad: Spellbinder 2 ( :blue_square: )
+
+------------- **Firemaw** -------------
+
+Diagram of new spot, assignments, manage stacks call out
+
+
+------------- **Wyrmguard Packs** -------------
+
+2 tanks on skull, one on others, with two tanks playing goalie for ranged/healers.
+
+Shot caller to call out spins and redirect melee. Can also call vulnerability
+
+------------- ** other drakes?** -------------
+
+Mints MT, Skeu/Bebu OT. Ebonroc, taunt on Shadow of Ebonroc. Flamegor, pre-taunt wing buffet.
+
+Hunters tranq shot. TODO note: rotation?
+
+------------- **Chrom** -------------
+
+Mints MT, Skeu building threat for first round of breaths then switching to cat if no time lapse.
+
+DPS, if you don't wanna die, stay behind Skeu for first 2 breaths.
+
+------------- **nef** -------------
+
+Mage/lock start sides
+Melee group number sides
+Tank assignments
+
+Nef position diagram?
+Call strats? (Rogue turn is only real one I guess, anything for mages?)
+
+**Notes/Links**
+Lab pack notes https://wow.gamepedia.com/Blackwing_Lair_lab_packs
+
+Lab pack tips from FC
+https://discordapp.com/channels/383596811517952002/674028823951573002/693188165862817822
+
+Wyrmguards
+https://vanilla-twinhead.twinstar.cz/?issue=2429
