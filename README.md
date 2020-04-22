@@ -20,6 +20,8 @@ _____________________________
 |____________door___________|
 ```
 
+Rogues, try not to use vanish, as we're moving into Vael quicker and you need it there.
+
 ### Phase 2
 * Skeu breaks last egg
 * Mints OT and should get threat on conflag
@@ -29,7 +31,9 @@ _____________________________
 
 Mints MT, planning for only tank. (W1 Skeu will build 2nd threat).
 
-Melee to other side. Don't go past Mints, LIP if you have to.
+Melee to other side. Don't go past Mints.
+
+**LIPs DON'T RESET OR STOP THREAT.** If you LIP but don't slow down, you'll just pull when the LIP wears off.
 
 ## Dragonkin Packs
 
@@ -39,9 +43,8 @@ Tanks:
 * Mints: Seether 1 ( :skull: )
 * Skeu: Seether 2 or Flamescale 2 ( :x: )
 * Bebu: Flamescale 1 ( :blue_square: )
-* Glad: Wyrmkin 2 or Flamescale 2 ( :star: )
 * Maddimar: Wyrmkin 1 ( :crescent_moon: ) 
-
+* Clad: Wyrmkin 2 or Flamescale 2 ( :star: )
 
 ## Broodlord
 Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away. Bebu also building threat. Position in corner. OTs just to the side, try to get cleaved but not parried.
@@ -49,8 +52,6 @@ Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away
 Raid takes down any remaining whelps, then positions by doorway. 
 
 Bebu applies demo shout. No CoR if tanks don't have wbuffs.
-
-TODO Note: are we still doing in and out on blast wave or nah?
 
 ## Lab Packs
 
@@ -67,7 +68,7 @@ Tanks:
 * Skeu: Warlock 2 ( :x: )
 * Bebu: Overseer ( :blue_square: )
 * Maddimar: Spellbinder 1 ( :crescent_moon: )
-* Glad: Spellbinder 2 ( :star: )
+* Clad: Spellbinder 2 ( :star: )
 
 ## Firemaw
 
@@ -107,13 +108,15 @@ Shot caller to call out spins and redirect melee. Can also call vulnerability
 
 Mints MT, Skeu/Bebu OT. Ebonroc, taunt on Shadow of Ebonroc. Flamegor, pre-taunt wing buffet.
 
-Hunters tranq shot. TODO note: rotation?
+Hunters tranq shot.
 
 ## Chrom
 
 Mints MT, Skeu building threat for first round of breaths then switching to cat if no time lapse.
 
 DPS, if you don't wanna die, stay behind Skeu for first 2 breaths.
+
+Hunters tranq shot.
 
 ## Nef
 
