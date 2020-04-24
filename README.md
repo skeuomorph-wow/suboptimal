@@ -120,12 +120,11 @@ Hunters tranq shot.
 
 ## Nef
 
-Mage/lock start sides
-Melee group number sides
-Tank assignments
+Mages start left, lock start right switch if needed
 
-Nef position diagram?
-Call strats? (Rogue turn is only real one I guess, anything for mages?)
+Melee - Odds left, Evens right
+
+Healers LoS fear with pillar.
 
 ## Notes/Links
 Lab pack notes https://wow.gamepedia.com/Blackwing_Lair_lab_packs
