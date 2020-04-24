@@ -100,7 +100,7 @@ DPS watch your stacks and heal yourself.
 * Skeu: ( :x: )
 * Bebu: ( :blue_square: )
 * Maddimar: ( :skull: )
-* Glad: Goalie, hanging out with ranged.
+* Clad: Goalie, hanging out with ranged.
 
 Shot caller to call out spins and redirect melee. Can also call vulnerability
 
