@@ -72,7 +72,7 @@ Tanks:
 
 ## Firemaw
 
-Trying a new strategy to help prevent damage go healers and cut out tank swaps.
+Trying a new strategy to help prevent healer damage/stacks and cut out tank swaps.
 Old strategy was "gate", new strategy is "doorway".
 
 Mints will pull, back him in, and then run through to flip, so boss is facing into lab.
