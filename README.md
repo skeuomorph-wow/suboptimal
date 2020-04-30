@@ -12,7 +12,7 @@ Mathelot runs orb with Tubguy as backup
 #### Positions
 ```
 _____________________________
-| Mints       | Bebu        |
+| Mints       | Clad        |
 |             |             |
 |Orb__________|_____________|
 | Skeu        | Maddimar    |
@@ -42,16 +42,16 @@ Mathelot distracting shot on captain, pull to Vael room. Maybegay and Coldstew s
 Tanks:
 * Mints: Seether 1 ( :skull: )
 * Skeu: Seether 2 or Flamescale 2 ( :x: )
-* Bebu: Flamescale 1 ( :blue_square: )
+* Clad: Flamescale 1 ( :blue_square: )
 * Maddimar: Wyrmkin 1 ( :crescent_moon: ) 
-* Clad: Wyrmkin 2 or Flamescale 2 ( :star: )
+* Bebu: Wyrmkin 2 or Flamescale 2 ( :star: )
 
 ## Broodlord
-Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away. Bebu also building threat. Position in corner. OTs just to the side, try to get cleaved but not parried.
+Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away. Clad also building threat. Position in corner. OTs just to the side, try to get cleaved but not parried.
 
 Raid takes down any remaining whelps, then positions by doorway. 
 
-Bebu applies demo shout. No CoR if tanks don't have wbuffs.
+Clad applies demo shout. No CoR if tanks don't have wbuffs.
 
 ## Lab Packs
 
@@ -66,9 +66,9 @@ Ranged starts on techs at 3 AE. Melee on warlocks immediately.
 Tanks:
 * Mints: Warlock 1 ( :skull: )
 * Skeu: Warlock 2 ( :x: )
-* Bebu: Overseer ( :blue_square: )
+* Clad: Overseer ( :blue_square: )
 * Maddimar: Spellbinder 1 ( :crescent_moon: )
-* Clad: Spellbinder 2 ( :star: )
+* Bebu: Spellbinder 2 ( :star: )
 
 ## Firemaw
 
@@ -98,17 +98,17 @@ DPS watch your stacks and heal yourself.
 
 * Mints: ( :skull: )
 * Skeu: ( :x: )
-* Bebu: ( :blue_square: )
+* Clad: ( :blue_square: )
 * Maddimar: ( :skull: )
-* Clad: Goalie, hanging out with ranged.
+* Bebu: Goalie, hanging out with ranged.
 
 Shot caller to call out spins and redirect melee. Can also call vulnerability
 
 ## Other Drakes
 
-Mints MT, Skeu/Bebu OT. Ebonroc, taunt on Shadow of Ebonroc. Flamegor, pre-taunt wing buffet.
+Mints MT, Skeu/Clad OT. Ebonroc, taunt on Shadow of Ebonroc. Flamegor, pre-taunt wing buffet. Hunters tranq shot.
 
-Hunters tranq shot.
+Position them in the corner, MT tucked into the corner, with OTs on either side ready to taunt. This way we don't have to have an OT bouncing back and forth between spots. [Video](https://www.twitch.tv/videos/596152667?t=0h42m36s)
 
 ## Chrom
 
