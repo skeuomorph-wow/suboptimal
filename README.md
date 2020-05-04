@@ -15,7 +15,7 @@ _____________________________
 | Mints       | Clad        |
 |             |             |
 |Orb__________|_____________|
-| Skeu        | Maddimar    |
+| Skeu/Parity | Maddimar    |
 |             |             |
 |____________door___________|
 ```
@@ -44,10 +44,10 @@ Tanks:
 * Skeu: Seether 2 or Flamescale 2 ( :x: )
 * Clad: Flamescale 1 ( :blue_square: )
 * Maddimar: Wyrmkin 1 ( :crescent_moon: ) 
-* Bebu: Wyrmkin 2 or Flamescale 2 ( :star: )
+* Parity: Wyrmkin 2 or Flamescale 2 ( :star: )
 
 ## Broodlord
-Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away. Clad also building threat. Position in corner. OTs just to the side, try to get cleaved but not parried.
+Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away. Parity also building threat. Position in corner. OTs just to the side, try to get cleaved but not parried.
 
 Raid takes down any remaining whelps, then positions by doorway. 
 
@@ -68,7 +68,7 @@ Tanks:
 * Skeu: Warlock 2 ( :x: )
 * Clad: Overseer ( :blue_square: )
 * Maddimar: Spellbinder 1 ( :crescent_moon: )
-* Bebu: Spellbinder 2 ( :star: )
+* Parity: Spellbinder 2 ( :star: )
 
 ## Firemaw
 
@@ -82,7 +82,7 @@ Mints will pull, back him in, and then run through to flip, so boss is facing in
 [Video](https://clips.twitch.tv/HungryBenevolentBaboonYouDontSay)
 
 Skeu will taunt 6-8 seconds before wing buffet hits.
-If Skeu is resisted Bebu will taunt. If that's resisted, Skeu will AOE, then Bebu AOE (that'd be wild).
+If Skeu is resisted Parity will taunt. If that's resisted, Skeu will AOE, then Parity AOE (that'd be wild).
 
 Once one tank has aggro, pre wing buffet, the other should try and leave.
 Firemaw will most likely shadowflame the OT before wing buffeting, so only hitting one is preferred.
@@ -100,19 +100,19 @@ DPS watch your stacks and heal yourself.
 * Skeu: ( :x: )
 * Clad: ( :blue_square: )
 * Maddimar: ( :skull: )
-* Bebu: Goalie, hanging out with ranged.
+* Parity: Goalie, hanging out with ranged.
 
 Shot caller to call out spins and redirect melee. Can also call vulnerability
 
 ## Other Drakes
 
-Mints MT, Skeu/Clad OT. Ebonroc, taunt on Shadow of Ebonroc. Flamegor, pre-taunt wing buffet. Hunters tranq shot.
+Mints MT, Skeu/Parity OT. Ebonroc, taunt on Shadow of Ebonroc. Flamegor, pre-taunt wing buffet. Hunters tranq shot.
 
 Position them in the corner, MT tucked into the corner, with OTs on either side ready to taunt. This way we don't have to have an OT bouncing back and forth between spots. [Video](https://www.twitch.tv/videos/596152667?t=0h42m36s)
 
 ## Chrom
 
-Mints MT, Skeu building threat for first round of breaths then switching to cat if no time lapse.
+Mints MT, Skeu building threat for first round of breaths then switching to cat if no time lapse. Other tanks just DPS.
 
 DPS, if you don't wanna die, stay behind Skeu for first 2 breaths.
 
