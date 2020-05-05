@@ -42,9 +42,9 @@ Mathelot distracting shot on captain, pull to Vael room. Maybegay and Coldstew s
 Tanks:
 * Mints: Seether 1 ( :skull: )
 * Skeu: Seether 2 or Flamescale 2 ( :x: )
-* Clad: Flamescale 1 ( :blue_square: )
+* Parity: Flamescale 1 ( :blue_square: )
 * Maddimar: Wyrmkin 1 ( :crescent_moon: ) 
-* Parity: Wyrmkin 2 or Flamescale 2 ( :star: )
+* Clad: Wyrmkin 2 or Flamescale 2 ( :star: )
 
 ## Broodlord
 Mints start hard, Skeu a few seconds behind. Ideally mints eats first knock away. Parity also building threat. Position in corner. OTs just to the side, try to get cleaved but not parried.
@@ -66,9 +66,9 @@ Ranged starts on techs at 3 AE. Melee on warlocks immediately.
 Tanks:
 * Mints: Warlock 1 ( :skull: )
 * Skeu: Warlock 2 ( :x: )
-* Clad: Overseer ( :blue_square: )
+* Parity: Overseer ( :blue_square: )
 * Maddimar: Spellbinder 1 ( :crescent_moon: )
-* Parity: Spellbinder 2 ( :star: )
+* Clad: Spellbinder 2 ( :star: )
 
 ## Firemaw
 
@@ -98,9 +98,9 @@ DPS watch your stacks and heal yourself.
 
 * Mints: ( :skull: )
 * Skeu: ( :x: )
-* Clad: ( :blue_square: )
-* Maddimar: ( :skull: )
-* Parity: Goalie, hanging out with ranged.
+* Parity: ( :blue_square: )
+* Maddimar: Goalie, hanging out with ranged.
+* Clad: Goalie, hanging out with ranged.
 
 Shot caller to call out spins and redirect melee. Can also call vulnerability
 
