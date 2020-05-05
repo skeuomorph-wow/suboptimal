@@ -70,6 +70,15 @@ Tanks:
 * Maddimar: Spellbinder 1 ( :crescent_moon: )
 * Clad: Spellbinder 2 ( :star: )
 
+### Ramp pack
+For the ramp pack, we don't have a good LoS spot.
+Warlock tanks (:skull: and :x:) will try to LoS warlocks away from techs using the danger corner by the skip.
+No one else should come near tanks.
+
+Work to stay in LoS of the healers down the ramp, so they don't have to run to the techs.
+
+[Video/w notes](https://clips.twitch.tv/ComfortableCooperativeYogurtBlargNaut) 
+
 ## Firemaw
 
 Trying a new strategy to help prevent healer damage/stacks and cut out tank swaps.
@@ -104,11 +113,17 @@ DPS watch your stacks and heal yourself.
 
 Shot caller to call out spins and redirect melee. Can also call vulnerability
 
+
+Casters, down rank if it's your vulnerability.
+Don't pull aggro, it slows everything down.
+
 ## Other Drakes
 
 Mints MT, Skeu/Parity OT. Ebonroc, taunt on Shadow of Ebonroc. Flamegor, pre-taunt wing buffet. Hunters tranq shot.
 
-Position them in the corner, MT tucked into the corner, with OTs on either side ready to taunt. This way we don't have to have an OT bouncing back and forth between spots. [Video](https://www.twitch.tv/videos/596152667?t=0h42m36s)
+Position them in the corner, MT tucked into the corner, with OTs on either side ready to taunt.
+This way we don't have to have an OT bouncing back and forth between spots. [Video](https://www.twitch.tv/videos/596152667?t=0h42m36s)
+
 
 ## Chrom
 
