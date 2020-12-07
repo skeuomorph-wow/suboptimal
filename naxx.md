@@ -7,7 +7,9 @@ FAPs for OTs, melee recommended too
 - All mages/locks blast 1-2 acolytes on pull: https://youtu.be/CJ09N69TbC8?t=1140
 
 ## Faerline
-Widow's embrace once right away, it stops the AoE nature damage
+- Widow's embrace once right away, it stops the AoE nature damage
+- Casters spread out so you don't all get silenced
+- CC the shit out of the Followers, stuns especially
 
 # Construct
 
