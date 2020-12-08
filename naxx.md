@@ -45,6 +45,11 @@ https://wago.io/hJBnnoblZ
 For loatheb, we should alternate healer types cause you can batch an instant heal at the end. So pws/renew and rejuv. But you don't want to clip the previous healer. Fill in pallies maybe?
 
 
+# Military
+
+## Raz
+Positioning example: https://youtu.be/vuE1oYDGUQE?t=1320
+
 # General Ref
 
 ## Good PTR vods
